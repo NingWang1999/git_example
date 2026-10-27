@@ -1,0 +1,6 @@
+1、安装git
+Windows：
+win+R，输入cmd，可以打开终端
+终端内直接输入“winget install Git.Git”，按步骤安装
+重新开一个终端，输入“git --version”验证安装成功
+2、注册github账号
